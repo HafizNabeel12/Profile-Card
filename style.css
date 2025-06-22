@@ -1,0 +1,35 @@
+body{
+    background-color: #f6f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+.profile-pic{
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+.card{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.bio{
+    font-size: 16px;
+    margin: 10px 0px;
+
+}
+
+table{
+    width: 100%;
+    margin: 10px 0px;
+}
+
+table, th , td {
+    border: 1px solid black;
+}
+
